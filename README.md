@@ -6,4 +6,4 @@ The challenge contains 4 levels of difficult:
 - Advanced: Input a ASCII characters list and k parameter that means the maximum lenght for the password, generating all possible combinations;
 - Expert: Resolve the Advanced level using t parallel threads.
 
-Let's simulate this using a zip file protected.
+Let's simulate this using password protected .zip!
