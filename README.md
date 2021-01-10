@@ -8,7 +8,7 @@ The challenge contains 4 levels of difficult:
 - Advanced: Input a ASCII characters list and k parameter that means the maximum length for the password, generating all possible combinations;
 - Expert: Resolve the Advanced level using t parallel threads.
 
-Let's simulate this using password protected .zip!
+Let's simulate this using password protected .zip file.
 
 ## Key Learnings
 
@@ -21,5 +21,5 @@ If you have chosen Python to solve this problem, you will be able to learn about
 To run the program use:
 
 ```python
-python main.py -z files/easy.zip
+python main.py -z files/easy.zip -k 4 -c 0123456789
 ```
